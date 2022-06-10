@@ -1,1 +1,1 @@
-# go
+# Repository to house training applications for GO
