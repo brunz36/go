@@ -1,8 +1,10 @@
 package main
 
-func main() {
-	//cards := newDeck()
+import "fmt"
 
+func main() {
+	cards := newDeck()
+	fmt.Println(cards)
 	fileName := "deck.txt"
 
 	//err := cards.saveToFile(fileName)
